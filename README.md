@@ -6,7 +6,8 @@ Welcome to the Marvel Super Heroes Explorer App! 🚀
 
 | Home Page  | Search System | Hero Detail Page |
 | ------------- | ------------- | ------------- |
-| ![Simulator Screenshot - iPhone 15 Pro - 2023-12-11 at 23 04 05](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/b67485a4-0447-4ccc-927e-1295e123906b)  | ![Simulator Screenshot - iPhone 15 Pro - 2023-12-11 at 23 03 46](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/04181e85-7bea-42a9-a572-38988f8aee3a) | ![Simulator Screenshot - iPhone 15 Pro - 2023-12-11 at 23 04 14](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/ff448da0-1304-42c3-b460-77bbd2bdb349) | 
+| ![Simulator Screenshot - iPhone 15 Pro - 2024-01-06 at 02 42 27](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/f3f702c0-9c32-4290-b2a7-5d38db7de407) | ![Simulator Screenshot - iPhone 15 Pro - 2024-01-06 at 02 42 39](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/f0d44fef-af2d-4665-b289-0b7538658f80) | ![Simulator Screenshot - iPhone 15 Pro - 2024-01-06 at 02 42 46](https://github.com/onunomendonca/MarvelHeroes/assets/5332606/4252d74a-a586-4338-8fd1-c938783cb678) | 
+
 
 ## Overview
 
